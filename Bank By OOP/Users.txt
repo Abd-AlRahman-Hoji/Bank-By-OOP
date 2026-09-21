@@ -1,0 +1,5 @@
+Omar#//#User#//#admin@bank.com#//#0599000001#//#User1#//#123456#//#-1
+Ali#//#Kahlil#//#ahmad@bank.com#//#0599000002#//#User2#//#1234#//#-1
+Yoseef#//#Omer#//#sami@bank.com#//#0599000003#//#User3#//#123#//#-1
+Amr#//#Ali#//#omar@bank.com#//#0599000004#//#User4#//#2006#//#32
+Jak#//#Hassan#//#khaled@bank.com#//#0599000005#//#User5#//#0000#//#64

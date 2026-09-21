@@ -1,0 +1,23 @@
+# Visual Studio Auto-generated
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# Build outputs
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.tlog
+
+# User options
+*.vcxproj.user
+# Log & Text cache files
+*.log
+*.tlog
+
+# OS generated files
+.DS_Store
+Thumbs.db
