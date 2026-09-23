@@ -21,3 +21,5 @@ x86/
 # OS generated files
 .DS_Store
 Thumbs.db
+x64/
+Debug/

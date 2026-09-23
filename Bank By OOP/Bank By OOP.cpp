@@ -18,6 +18,7 @@ int main()
         {
             break;
         }
+        clsMainScreen::ShowMainMenue();
     }
    
     return 0;
